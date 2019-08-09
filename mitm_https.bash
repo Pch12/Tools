@@ -1,5 +1,8 @@
 #/bin/bash
 
+## You have to create a directory in Documents/tools/ssl_split
+## You have to create a file called connections.log in the directory "ssl_split"
+
 read -p "Which internet interface are you using? (wlan0, eth0, wlan1..):  " interface
 open_requironments(){
     rm -f /root/Documents/tools/ssl_split/logdir/*
