@@ -7,6 +7,7 @@ read -p "Which internet interface are you using? (wlan0, eth0, wlan1..):  " inte
 open_requironments(){
     rm -f /root/Documents/tools/ssl_split/logdir/*
     mkdir -p /root/Documents/tools/ssl_split/logdir
+    touch /root/Documents/tools/ssl_split/connections.log
 }
 open_requironments
 
