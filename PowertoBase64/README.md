@@ -1,6 +1,6 @@
 # PowerShellBase64
 2 bash scripts to make our life easier since Raikas Hub is trubble.. 
-1)apt-get install powershell
+<p>1)apt-get install powershell</p>
 
 Encode and Decode Base64 powershell commands for exploitation
 
