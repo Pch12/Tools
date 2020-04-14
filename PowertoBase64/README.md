@@ -3,5 +3,6 @@
 
 Encode and Decode Base64 powershell commands for exploitation
 
-#Usage: 
-
+# Usage: 
+./encode64.bash
+  inside the tool: "<string to encode>"
