@@ -20,6 +20,6 @@ All are gathered into a final Tmux session in order to make life easier and see 
  
 # Suggestions: 
  
-pch12.656@gmail.com 
+pakoa648@gmail.com 
  
  ENJOY
