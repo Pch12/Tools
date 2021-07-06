@@ -18,8 +18,8 @@ All are gathered into a final Tmux session in order to make life easier and see 
  
  
  
-# Suggestions: 
+# Bugs: 
  
-pakoa648@gmail.com 
- 
+pako332@protonmail.com
+
  ENJOY
